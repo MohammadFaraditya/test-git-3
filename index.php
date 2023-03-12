@@ -9,5 +9,10 @@
 <body>
     <h1>Hello World</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, quisquam.</p>
+
+    <ul>
+        <li>Number one</li>
+        <li>Number two</li>
+    </ul>
 </body>
 </html>
